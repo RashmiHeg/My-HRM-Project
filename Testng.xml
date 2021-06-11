@@ -1,0 +1,10 @@
+<suite name="OrangeHRM" parellel="tests">
+	<test name="Testng" allow-return-values="true">
+		<classes>
+			<class name="testlayer.LoginTest" />
+		</classes>
+	</test>
+	
+
+
+</suite>
